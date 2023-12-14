@@ -1,0 +1,33 @@
+.logo_styles {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: red; */
+}
+
+.logo_styles > p {
+  margin-top: 15px;
+  margin-left: 10px;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: rgba(255, 196, 0, 0.502);
+}
+
+.cust_btn {
+  color: black;
+  border: 1px solid black;
+  margin-top: 15px;
+}
+.cust_btn_par {
+  color: white;
+  border: 1px solid wheat;
+  margin-top: 15px;
+}
+
+.cust_paar {
+    color: white;
+}
+.cust_paar_cont {
+    max-width: 700px;
+    margin: auto;
+}
